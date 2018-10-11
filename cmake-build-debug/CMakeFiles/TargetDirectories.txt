@@ -1,0 +1,3 @@
+/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir
