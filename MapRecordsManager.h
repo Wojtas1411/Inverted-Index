@@ -25,6 +25,12 @@ public:
 
     void sortMapVectors();
 
+    std::vector<int> getRecordsIds(std::string term);
+
+    std::vector<record> getRecords(std::string term);
+
+
+
 };
 
 

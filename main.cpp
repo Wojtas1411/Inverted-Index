@@ -7,8 +7,6 @@ int main() {
 
     auto *mapUrlManager = new MapUrlManager();
 
-    delete mapUrlManager;
-
     auto *mapRecordsManager = new MapRecordsManager();
 
     //mapRecordsManager->printMap();
@@ -16,6 +14,10 @@ int main() {
     mapRecordsManager->sortMapVectors();
 
     mapRecordsManager->printRecords("reinforc");
+
+
+
+    delete mapUrlManager;
 
     delete mapRecordsManager;
 

@@ -71,3 +71,15 @@ void MapRecordsManager::sortMapVectors() {
     std::cout<<"KEYWORDS: Sorting time:\t"<<((double)(end-start))/CLOCKS_PER_SEC<<" s"<<std::endl;
 
 }
+
+std::vector<int> MapRecordsManager::getRecordsIds(std::string term) {
+    std::vector<int> output;
+     for(auto i : MapRecords[term]){
+         output.push_back(i.id);
+     }
+    return output;
+}
+
+std::vector<record> MapRecordsManager::getRecords(std::string term) {
+    return MapRecords[term];
+}
