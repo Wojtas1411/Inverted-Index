@@ -92,6 +92,12 @@
 		<Unit filename="/home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h">
 			<Option target="inverted_index_cpp"/>
 		</Unit>
+		<Unit filename="/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.cpp">
+			<Option target="inverted_index_cpp"/>
+		</Unit>
+		<Unit filename="/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h">
+			<Option target="inverted_index_cpp"/>
+		</Unit>
 		<Unit filename="/home/wojtek/CloudComputing/inverted_index_cpp/main.cpp">
 			<Option target="inverted_index_cpp"/>
 		</Unit>

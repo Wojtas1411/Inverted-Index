@@ -35,6 +35,12 @@ public:
     bool operator < (const record & r1){
         return r1.id > this->id;
     }
+
+    friend std::ostream& operator<<(std::ostream& os, const record & obj) {
+        // write obj to stream
+        os<<"(id: "<<obj.id<<" score: "<<obj.score<<")";
+        return os;
+    }
 };
 
 

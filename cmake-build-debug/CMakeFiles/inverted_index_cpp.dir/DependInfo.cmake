@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.cpp" "/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir/MapRecordsManager.cpp.o"
   "/home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.cpp" "/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir/MapUrlManager.cpp.o"
+  "/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.cpp" "/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir/QueryBuilder.cpp.o"
   "/home/wojtek/CloudComputing/inverted_index_cpp/main.cpp" "/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir/main.cpp.o"
   "/home/wojtek/CloudComputing/inverted_index_cpp/record.cpp" "/home/wojtek/CloudComputing/inverted_index_cpp/cmake-build-debug/CMakeFiles/inverted_index_cpp.dir/record.cpp.o"
   )

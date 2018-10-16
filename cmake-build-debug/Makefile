@@ -177,6 +177,33 @@ MapUrlManager.cpp.s:
 	$(MAKE) -f CMakeFiles/inverted_index_cpp.dir/build.make CMakeFiles/inverted_index_cpp.dir/MapUrlManager.cpp.s
 .PHONY : MapUrlManager.cpp.s
 
+QueryBuilder.o: QueryBuilder.cpp.o
+
+.PHONY : QueryBuilder.o
+
+# target to build an object file
+QueryBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/inverted_index_cpp.dir/build.make CMakeFiles/inverted_index_cpp.dir/QueryBuilder.cpp.o
+.PHONY : QueryBuilder.cpp.o
+
+QueryBuilder.i: QueryBuilder.cpp.i
+
+.PHONY : QueryBuilder.i
+
+# target to preprocess a source file
+QueryBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/inverted_index_cpp.dir/build.make CMakeFiles/inverted_index_cpp.dir/QueryBuilder.cpp.i
+.PHONY : QueryBuilder.cpp.i
+
+QueryBuilder.s: QueryBuilder.cpp.s
+
+.PHONY : QueryBuilder.s
+
+# target to generate assembly for a file
+QueryBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/inverted_index_cpp.dir/build.make CMakeFiles/inverted_index_cpp.dir/QueryBuilder.cpp.s
+.PHONY : QueryBuilder.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -246,6 +273,9 @@ help:
 	@echo "... MapUrlManager.o"
 	@echo "... MapUrlManager.i"
 	@echo "... MapUrlManager.s"
+	@echo "... QueryBuilder.o"
+	@echo "... QueryBuilder.i"
+	@echo "... QueryBuilder.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

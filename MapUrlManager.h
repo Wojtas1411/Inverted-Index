@@ -10,6 +10,7 @@
 #include <iostream>
 #include <fstream>
 #include <ctime>
+#include "record.h"
 
 class MapUrlManager {
 private:
@@ -21,6 +22,8 @@ public:
     ~MapUrlManager() = default;
 
     std::string getURL(int id);
+
+    std::string getURL(record tmp);
 
 };
 

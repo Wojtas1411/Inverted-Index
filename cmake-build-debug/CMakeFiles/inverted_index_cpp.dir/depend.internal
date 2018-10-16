@@ -8,9 +8,16 @@ CMakeFiles/inverted_index_cpp.dir/MapRecordsManager.cpp.o
 CMakeFiles/inverted_index_cpp.dir/MapUrlManager.cpp.o
  /home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.cpp
  /home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h
+ /home/wojtek/CloudComputing/inverted_index_cpp/record.h
+CMakeFiles/inverted_index_cpp.dir/QueryBuilder.cpp.o
+ /home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h
+ /home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.cpp
+ /home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h
+ /home/wojtek/CloudComputing/inverted_index_cpp/record.h
 CMakeFiles/inverted_index_cpp.dir/main.cpp.o
  /home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.h
  /home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h
+ /home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h
  /home/wojtek/CloudComputing/inverted_index_cpp/main.cpp
  /home/wojtek/CloudComputing/inverted_index_cpp/record.h
 CMakeFiles/inverted_index_cpp.dir/record.cpp.o

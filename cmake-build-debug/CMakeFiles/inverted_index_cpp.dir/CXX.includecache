@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.cpp
-MapRecordsManager.h
-/home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.h
-
 /home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.h
 vector
 -
@@ -35,6 +31,20 @@ fstream
 -
 ctime
 -
+record.h
+/home/wojtek/CloudComputing/inverted_index_cpp/record.h
+
+/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.cpp
+QueryBuilder.h
+/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h
+
+/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h
+vector
+-
+record.h
+/home/wojtek/CloudComputing/inverted_index_cpp/record.h
+MapUrlManager.h
+/home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h
 
 /home/wojtek/CloudComputing/inverted_index_cpp/main.cpp
 iostream
@@ -43,6 +53,8 @@ MapUrlManager.h
 /home/wojtek/CloudComputing/inverted_index_cpp/MapUrlManager.h
 MapRecordsManager.h
 /home/wojtek/CloudComputing/inverted_index_cpp/MapRecordsManager.h
+QueryBuilder.h
+/home/wojtek/CloudComputing/inverted_index_cpp/QueryBuilder.h
 
 /home/wojtek/CloudComputing/inverted_index_cpp/record.h
 fstream

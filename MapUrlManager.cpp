@@ -34,3 +34,7 @@ MapUrlManager::MapUrlManager() {
 std::string MapUrlManager::getURL(int id) {
     return MapURLS[id];
 }
+
+std::string MapUrlManager::getURL(record tmp) {
+    return MapURLS[tmp.id];
+}
